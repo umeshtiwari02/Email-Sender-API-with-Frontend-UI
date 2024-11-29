@@ -1,0 +1,15 @@
+/* app.component.css or your-component-name.component.css */
+.custom-button {
+    background-color: blue !important; /* Button background color */
+    color: white;             /* Text color */
+  }
+
+  .custom-button:hover {
+    color: #000;
+    background-color: darkorange !important; /* Change color on hover */
+  }
+
+  .container {
+    text-align: center;
+    margin-top: 20px;
+  }
